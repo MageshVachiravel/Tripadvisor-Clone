@@ -20,8 +20,6 @@ Follow these simple steps to get a copy of the project up and running on your lo
 
 ## Screenshots
 
-Include screenshots of different sections of your TripAdvisor Clone to give users a visual preview of your project.
-
 ![Screenshot 1](./images/screenshot-1.png)
 ![Screenshot 2](./images/screenshot-2.png)
 
